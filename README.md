@@ -36,5 +36,5 @@ Desenvolvedor Full Stack com paixão por construir aplicações de ponta a ponta
 
 ### 🏆 Troféus do GitHub
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=geovanne-s&theme=gitdimmed&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=geovanne-s&theme=gitdimmed&no-bg=true&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
 </div>
