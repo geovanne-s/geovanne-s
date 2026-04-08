@@ -28,13 +28,13 @@ Desenvolvedor Full Stack com paixão por construir aplicações de ponta a ponta
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=geovanne-s&show_icons=true&count_private=true&hide_border=true&title_color=5884db&icon_color=5884db&text_color=5884db&bg_color=0d1117" alt="Estatísticas de Geovanne Silva no GitHub" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanne-s&layout=compact&hide_border=true&title_color=5884db&text_color=5884db&bg_color=0d1117" alt="Linguagens mais usadas" />
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geovanne-s&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 </div>
 
 ---
 
-### 🏆 Troféus do GitHub
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=geovanne-s&theme=gitdimmed&no-bg=true&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
+  <img src="https://raw.githubusercontent.com/geovanne-s/geovanne-s/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
