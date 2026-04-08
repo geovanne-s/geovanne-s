@@ -12,7 +12,9 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-Desenvolvedor Full Stack com paixão por construir aplicações de ponta a ponta, desde a arquitetura do back-end e modelagem de dados até a criação de interfaces de usuário intuitivas. Sou motivado pelo desafio de transformar ideias em produtos robustos e de alta performance. Com uma vivência internacional na Europa, desenvolvi forte adaptabilidade e habilidades de comunicação para colaborar em ambientes dinâmicos.
+Desenvolvedor Full Stack com olhar especializado em Frontend. Minha base sólida em arquitetura back-end e modelagem de dados me permite construir aplicações robustas, mas é na criação de interfaces intuitivas e de alta performance que entrego meu maior valor.
+
+Com vivência internacional na Europa, aprendi a navegar em ambientes diversos e dinâmicos, unindo adaptabilidade cultural a uma comunicação técnica clara. Hoje, meu foco é transformar códigos complexos em experiências de usuário excepcionais e fluidas.
 
 ---
 
