@@ -21,7 +21,7 @@ Com vivência internacional na Europa, aprendi a navegar em ambientes diversos e
 ### 🛠️ Tecnologias & Ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,vue,php,laravel,nodejs,mongodb,mysql,rabbitmq,git,figma,azure,githubactions&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,vue,php,laravel,nodejs,mongodb,mysql,rabbitmq,git,figma,azure,angular&perline=8" />
   </a>
 </p>
 
